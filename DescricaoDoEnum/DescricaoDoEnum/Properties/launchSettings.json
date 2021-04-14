@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DescricaoDoEnum": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

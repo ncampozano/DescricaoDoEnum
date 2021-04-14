@@ -1,0 +1,12 @@
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\bin\Debug\netcoreapp2.1\DescricaoDoEnum.deps.json
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\bin\Debug\netcoreapp2.1\DescricaoDoEnum.runtimeconfig.json
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\bin\Debug\netcoreapp2.1\DescricaoDoEnum.runtimeconfig.dev.json
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\bin\Debug\netcoreapp2.1\DescricaoDoEnum.dll
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\bin\Debug\netcoreapp2.1\DescricaoDoEnum.pdb
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.csprojAssemblyReference.cache
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.AssemblyInfoInputs.cache
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.AssemblyInfo.cs
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.csproj.CoreCompileInputs.cache
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.dll
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.pdb
+D:\Workspace\GetEnumDescription\descricao-do-enum\DescricaoDoEnum\DescricaoDoEnum\obj\Debug\netcoreapp2.1\DescricaoDoEnum.genruntimeconfig.cache
